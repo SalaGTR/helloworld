@@ -5,3 +5,5 @@ def hello(msg):
 
 if __name__ == "__main__":
     hello("world")
+    hello("Alex")
+    hello("Dani")
